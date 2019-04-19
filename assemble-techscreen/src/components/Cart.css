@@ -1,0 +1,33 @@
+.cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 1920px;
+    width: 100%;
+    margin: 50px;
+}
+
+.cart .header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: #00000018 1px solid;
+}
+
+h1, h2 {
+    font-weight: lighter;
+}
+
+.cart .header .sub-header {
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+}
+
+.cart .footer {
+    width: 40%;
+}
+
+
