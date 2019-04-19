@@ -1,0 +1,18 @@
+.complete {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.head {
+    font-weight: lighter;
+    border-bottom: #00000018 1px solid;
+    margin-bottom: 75px;
+    margin-left: 50px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

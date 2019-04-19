@@ -1,0 +1,30 @@
+.products {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* max-width: 1920px; */
+    width: 100%;
+    margin-bottom: 150px;
+    margin-left: 0px;
+}
+
+.product {
+    margin-top: 50px;
+}
+
+.product h1 {
+    font-size: 1.0rem;
+    color: #000000;
+    font-weight: lighter;
+}
+
+.product h5 {
+    font-size: 0.8rem;
+    color: #acacac;
+    font-weight: bold;
+}
+
+.product h3 {
+    margin-bottom: 55px;
+}
+
